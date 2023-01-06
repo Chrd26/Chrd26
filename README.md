@@ -1,8 +1,10 @@
 # Welcome to my Github profile! 👋👋👋
 
-~<a href="https://app.daily.dev/RunnerDigital"><img src="https://api.daily.dev/devcards/623f17b602b94cb8b0f97d4e004af587.png?r=4wq" width="400" alt="The_Runner_01's Dev Card"/></a>
+I am a person who is born and raised in Athens, Greece. With a bachelor in music technology and production, I started creating sounds and music for video games and now a full time learning programmer and still a music producer. I want to create works for great experiences and solutions to help people in their daily lives. 
 
-~![Github stats](https://github-readme-stats.vercel.app/api?username=Chrd26)
+Currently learning Dart and Flutter, and C++. I am quite knowledgabe in Unity and Godot engines.
+
+~<a href="https://app.daily.dev/RunnerDigital"><img src="https://api.daily.dev/devcards/623f17b602b94cb8b0f97d4e004af587.png?r=4wq" width="400" alt="The_Runner_01's Dev Card"/></a>
 
 <!--
 **Chrd26/Chrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
