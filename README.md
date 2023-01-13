@@ -2,13 +2,22 @@
 
 ~<a href="https://app.daily.dev/RunnerDigital"><img src="https://api.daily.dev/devcards/623f17b602b94cb8b0f97d4e004af587.png?r=4wq" width="400" alt="The_Runner_01's Dev Card"/></a>
 
-I am a person who is born and raised in Athens, Greece. With a bachelor in music technology and production, I started creating sounds and music for video games and now a full time learning programmer and still a music producer. I want to create works for great experiences and solutions to help people in their daily lives. 
+Born and raised in Athens,Greece. Once a sound engineer, now a learning programmer and a music producer wanting to become a proffesional software engineer. My aim is to create software to help people in their daily lives, mixed reality software and games. 
 
-Currently learning Dart and Flutter, and C++. I am quite knowledgabe in Unity and Godot engines.
+- 📘 Currently Learning:
+- C++ for desktop applications, games and systems.
+- HTML, CSS and Javascript for web and mix reality apps.
+- Flutter and Dart for mobile applications.
+- CS50 - introduction to computer science.
+- FreeCodeCamp for web apps.
 
+- ✅ Completed Courses
+- [Introduction to computer science on freeCodecamp's youtube channel](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=1s&ab_channel=freeCodeCamp.org "Link to the course"
+- [C++ tutorial for beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org "Link to the course")
+-
 
 <!--
-**Chrd26/Chrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chrd26/Chrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
