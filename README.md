@@ -12,9 +12,10 @@ Born and raised in Athens,Greece. Once a sound engineer, now a learning programm
 - FreeCodeCamp for web apps.
 
 - ✅ Completed Courses
-- [Introduction to computer science on freeCodecamp's youtube channel](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=1s&ab_channel=freeCodeCamp.org "Link to the course"
+- [Introduction to computer science on freeCodecamp's youtube channel](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=1s&ab_channel=freeCodeCamp.org "Link to the course")
 - [C++ tutorial for beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org "Link to the course")
--
+
+[Follow my blog and find my portfolio on Hashnode!](https://runnerdigitalcreations.hashnode.dev/ "My coding journey")
 
 <!--
 **Chrd26/Chrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
