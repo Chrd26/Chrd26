@@ -6,7 +6,7 @@ Born and raised in Athens,Greece. Once a sound engineer, now a learning programm
 
 - 📘 Currently Learning:
 - C++ for desktop applications, games and systems.
-- HTML, CSS and Javascript for web and mix reality apps.
+- HTML, CSS and Javascript for web and mixed reality apps.
 - Flutter and Dart for mobile applications.
 - CS50 - introduction to computer science.
 - FreeCodeCamp for web apps.
