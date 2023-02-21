@@ -10,6 +10,7 @@ Born and raised in Athens,Greece. Once a sound engineer, now a learning programm
 - Flutter and Dart for mobile applications.
 - CS50 - introduction to computer science.
 - FreeCodeCamp for web apps.
+- Coding Train's Processing tutorial
 
 - ✅ Completed Courses
 - [Introduction to computer science on freeCodecamp's youtube channel](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=1s&ab_channel=freeCodeCamp.org "Link to the course")
