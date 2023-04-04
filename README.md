@@ -6,15 +6,14 @@ Born and raised in Athens,Greece. Once a sound engineer, now a learning programm
 
 - 📘 Currently Learning:
 - C++ for desktop applications, games and systems.
-- HTML, CSS and Javascript for web and mixed reality apps.
-- Flutter and Dart for mobile applications.
 - CS50 - introduction to computer science.
-- FreeCodeCamp for web apps.
+- freeCodeCamp - Javascpript Algorithms and Data Structures.
 - Coding Train's Processing tutorial
 
 - ✅ Completed Courses
 - [Introduction to computer science on freeCodecamp's youtube channel](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=1s&ab_channel=freeCodeCamp.org "Link to the course")
 - [C++ tutorial for beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org "Link to the course")
+- [FreeCodeCamp - Responsive Design](https://www.freecodecamp.org/certification/The_Runner_01/responsive-web-design)
 
 [Follow my blog and find my portfolio on Hashnode!](https://runnerdigitalcreations.hashnode.dev/ "My coding journey")
 
