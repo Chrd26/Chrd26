@@ -4,11 +4,11 @@
 
 Born and raised in Athens,Greece. Once a sound engineer, now a learning programmer and a music producer wanting to become a proffesional software engineer. My aim is to create software to help people in their daily lives, mixed reality software and games. 
 
-- 📘 Currently Learning:
+📘 Currently Learning:
 - C++ for desktop applications, games, and systems.
 - Coding Train's Processing tutorial
 
-- ✅ Completed Courses
+✅ Completed Courses
 - [CS50 - Introduction to Computer Science](https://certificates.cs50.io/838bbaa3-e410-413f-b574-b173f0b5db44.pdf?size=letter)
 - [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/The_Runner_01/javascript-algorithms-and-data-structures)
 - [Introduction to computer science on freeCodecamp's youtube channel](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=1s&ab_channel=freeCodeCamp.org "Link to the course")
