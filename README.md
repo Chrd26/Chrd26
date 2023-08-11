@@ -1,8 +1,8 @@
 # Welcome to my Github profile! 👋👋👋
 
-~<a href="https://app.daily.dev/RunnerDigital"><img src="https://api.daily.dev/devcards/623f17b602b94cb8b0f97d4e004af587.png?r=4wq" width="400" alt="The_Runner_01's Dev Card"/></a>
+<a href="https://app.daily.dev/RunnerDigital"><img src="https://api.daily.dev/devcards/623f17b602b94cb8b0f97d4e004af587.png?r=4wq" width="400" alt="The_Runner_01's Dev Card"/></a>
 
-Born and raised in Athens,Greece. Once a sound engineer, now a learning programmer and a music producer wanting to become a proffesional software engineer. My aim is to create software to help people in their daily lives, mixed reality software and games. 
+Born and raised in Athens, Greece. Once a sound engineer, now a learning programmer and a music producer wanting to become a professional software engineer. My aim is to create software to help people in their daily lives, mixed reality software, and games. 
 
 📘 Currently Learning:
 - C++ for desktop applications, games, and systems.
@@ -15,7 +15,9 @@ Born and raised in Athens,Greece. Once a sound engineer, now a learning programm
 - [C++ tutorial for beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org "Link to the course")
 - [FreeCodeCamp - Responsive Design](https://www.freecodecamp.org/certification/The_Runner_01/responsive-web-design)
 
-[Follow my blog and find my portfolio on Hashnode!](https://runnerdigitalcreations.hashnode.dev/ "My coding journey")
+[Follow my hashnode blog](https://runnerdigitalcreations.hashnode.dev/ "My coding journey")
+
+[Find my portfolio on my website](http://runner-digital.html-5.me/index.html)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrd26&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
