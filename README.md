@@ -6,6 +6,7 @@ Born and raised in Athens, Greece. Once a sound engineer, now a learning program
 
 📘 Currently Learning:
 - C++ course by The Cherno
+- Nodejs course by Dave Gray
   
 ✅ Completed Courses
 - [CS50 - Introduction to Computer Science](https://certificates.cs50.io/838bbaa3-e410-413f-b574-b173f0b5db44.pdf?size=letter)
