@@ -6,7 +6,6 @@ Born and raised in Athens, Greece. Once a sound engineer, now a learning program
 
 📘 Currently Learning:
 - C++ course by The Cherno
-- Nodejs course by Dave Gray
   
 ✅ Completed Courses
 - [CS50 - Introduction to Computer Science](https://certificates.cs50.io/838bbaa3-e410-413f-b574-b173f0b5db44.pdf?size=letter)
@@ -14,6 +13,7 @@ Born and raised in Athens, Greece. Once a sound engineer, now a learning program
 - [Introduction to computer science on freeCodecamp's youtube channel](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=1s&ab_channel=freeCodeCamp.org "Link to the course")
 - [C++ tutorial for beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org "Link to the course")
 - [FreeCodeCamp - Responsive Design](https://www.freecodecamp.org/certification/The_Runner_01/responsive-web-design)
+- [Nodejs course by Dave Gray](https://www.youtube.com/watch?v=f2EqECiTBL8&t=22547s&ab_channel=DaveGray)
 
 [Follow my hashnode blog](https://runnerdigitalcreations.hashnode.dev/ "My coding journey")
 
