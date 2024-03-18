@@ -14,7 +14,7 @@ Born and raised in Athens, Greece. Once a sound engineer, now a learning program
 - [FreeCodeCamp - Responsive Design](https://www.freecodecamp.org/certification/The_Runner_01/responsive-web-design)
 - [Nodejs course by Dave Gray](https://www.youtube.com/watch?v=f2EqECiTBL8&t=22547s&ab_channel=DaveGray)
 
-[Follow my hashnode blog](https://runnerdigitalcreations.hashnode.dev/ "My coding journey")
+[Follow my hashnode blog](https://therunner.digital/)
 
 [Find my portfolio on my website](http://runner-digital.html-5.me/index.html)
 
