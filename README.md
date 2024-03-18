@@ -5,7 +5,6 @@
 Born and raised in Athens, Greece. Once a sound engineer, now a learning programmer and a music producer wanting to become a professional software engineer. My aim is to create software to help people in their daily lives, mixed reality software, and games. 
 
 📘 Currently Learning:
-- C++ course by The Cherno
   
 ✅ Completed Courses
 - [CS50 - Introduction to Computer Science](https://certificates.cs50.io/838bbaa3-e410-413f-b574-b173f0b5db44.pdf?size=letter)
