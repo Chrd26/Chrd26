@@ -14,7 +14,7 @@
 
 ![](https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.github.com/Chrd26/git-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <!--
