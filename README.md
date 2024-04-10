@@ -12,7 +12,7 @@
 
 [Follow my hashnode blog](https://therunner.digital/)
 
-![](https://raw.githubusercontent.com/chrd26/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/The_Runner_01/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/Chrd26/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
