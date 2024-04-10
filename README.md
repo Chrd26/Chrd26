@@ -10,12 +10,12 @@
 - [FreeCodeCamp - Responsive Design](https://www.freecodecamp.org/certification/The_Runner_01/responsive-web-design)
 - [Nodejs course by Dave Gray](https://www.youtube.com/watch?v=f2EqECiTBL8&t=22547s&ab_channel=DaveGray)
 
-[Follow my hashnode blog](https://therunner.digital/)
+[Website](https://therunner.digital/)
 
-<a href="#"
+<a href="#">
 <img src="https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/languages.svg#gh-dark-mode-only">
->
+</a>a>
 
 <!--
 **Chrd26/Chrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
