@@ -14,7 +14,7 @@
 
 ![](https://raw.githubusercontent.com/The_Runner_01/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.github.com/Chrd26/git-stats/blob/master/generated/languages.svg)
+![](https://raw.github.com/Chrd26/git-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 
 <!--
