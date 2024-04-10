@@ -13,9 +13,7 @@
 [Follow my hashnode blog](https://therunner.digital/)
 
 <img src="https://raw.github.com/Chrd26/git-stats/master/generated/overview.svg#gh-dark-mode-only">
-
-![](https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+<img src="https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/languages.svg#gh-dark-mode-only">
 
 <!--
 **Chrd26/Chrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
