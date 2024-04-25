@@ -1,8 +1,7 @@
 # Welcome to my Github profile! 👋👋👋
-
-<a href="https://app.daily.dev/RunnerDigital"><img src="https://api.daily.dev/devcards/623f17b602b94cb8b0f97d4e004af587.png?r=4wq" width="400" alt="The_Runner_01's Dev Card"/></a>
   
-✅ Completed Courses
+# Completed Courses ✅
+
 - [CS50 - Introduction to Computer Science](https://certificates.cs50.io/838bbaa3-e410-413f-b574-b173f0b5db44.pdf?size=letter)
 - [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/The_Runner_01/javascript-algorithms-and-data-structures)
 - [Introduction to computer science on freeCodecamp's youtube channel](https://www.youtube.com/watch?v=zOjov-2OZ0E&t=1s&ab_channel=freeCodeCamp.org "Link to the course")
@@ -11,12 +10,21 @@
 - [Nodejs course by Dave Gray](https://www.youtube.com/watch?v=f2EqECiTBL8&t=22547s&ab_channel=DaveGray)
 - [The Coding Train Processing Course](https://www.youtube.com/watch?v=4JzDttgdILQ&list=PLcyrfeXYiQG0toqT2y8IumyKuoSz7VPLh)
 
-[Website](https://therunner.digital/)
 
+<h1><a href="https://therunner.digital/">Website 🌐</a></h1>
+
+<h1>Stats 📊</h1>
 <a href="#">
 <img src="https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/languages.svg#gh-dark-mode-only">
 </a>
+<br>
+<br>
+<h1>Codewars Rank 🏆</h1>
+<img src="https://www.codewars.com/users/Chrd26/badges/large">
+<br>
+<h1>Daily Dev 📊</h1>
+<a href="https://app.daily.dev/RunnerDigital"><img src="https://api.daily.dev/devcards/623f17b602b94cb8b0f97d4e004af587.png?r=4wq" width="400" alt="The_Runner_01's Dev Card"/></a>
 
 <!--
 **Chrd26/Chrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
