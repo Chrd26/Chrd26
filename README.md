@@ -11,7 +11,7 @@
 - [The Coding Train Processing Course](https://www.youtube.com/watch?v=4JzDttgdILQ&list=PLcyrfeXYiQG0toqT2y8IumyKuoSz7VPLh)
 
 
-<h1><a href="https://therunner.digital/">Website 🌐</a></h1>
+<h1><a href="https://www.therunner.digital/">Website 🌐</a></h1>
 
 <h1>Stats 📊</h1>
 <a href="#">
@@ -19,13 +19,6 @@
 <img src="https://raw.githubusercontent.com/Chrd26/git-stats/master/generated/languages.svg#gh-dark-mode-only">
 </a>
 <br>
-<br>
-<h1>Codewars Rank 🏆</h1>
-<img src="https://www.codewars.com/users/Chrd26/badges/large">
-<br>
-<h1>Daily Dev 📊</h1>
-<a href="https://app.daily.dev/RunnerDigital"><img src="https://api.daily.dev/devcards/623f17b602b94cb8b0f97d4e004af587.png?r=4wq" width="400" alt="The_Runner_01's Dev Card"/></a>
-
 <!--
 **Chrd26/Chrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
